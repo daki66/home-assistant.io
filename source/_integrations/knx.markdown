@@ -485,7 +485,7 @@ counter:
   required: false
   type: integer
   default: 1
-hook:
+state:
   description: Indicates if the automation should be executed on what state of the binary sensor. Values are "on" or "off".
   required: false
   type: string
